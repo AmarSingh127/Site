@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.table{
+    display: flex;
+    justify-content: center;
+    /* flex: 1; */
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    margin-top: 5%;
+
+ 
+
+
+}
+.input{
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+    width: 100%;
+    border: 1px solid grey;
+
+}
+.heading{
+    padding: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: 600;
+    text-align: center;
+    color: skyblue;
+    text-decoration: underline;
+}
